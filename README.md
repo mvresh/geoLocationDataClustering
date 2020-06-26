@@ -7,16 +7,16 @@ Visualize geolocation data interactively using Python
 
 Cluster this data ranging from simple to more advanced methods, and evaluate these clustering algorithms
 
-    An introduction to the problem, as well as basic exploratory data analysis and visualizations
+    Basic exploratory data analysis and visualizations
 
     Visualizing geographical data in a more meaningful and interactive way
 
-    Methods of evaluating the strength of a clustering algorithm
+    Silhouette score for evaluating the strength of a clustering algorithm
 
-    Theory behind K-Means, and how to use it for our problem
+    Applying K-Means to solve the problem
 
-    Introduction to density-based clustering approaches, and how to use DBSCAN
+    Density-based clustering approaches,such as DBSCAN
 
-    Introduction to HDBSCAN, to alleviate constraints of classical DBSCAN
+    HDBSCAN, to loosen constraints of classical DBSCAN
 
-    A simple method to address outliers classified by density-based models. 
+    Addressing outliers classified by density-based models. 
